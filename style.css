@@ -87,17 +87,25 @@ a:hover {
 }
                                       /* RESPONSIVIDADE */
 @media screen and (max-width:900px){
+    .general{
+        width: 100%;
+        height: 100%;
+    }
     .conteiner-left {
         display: block;
         width: 100%;
         height: 50%;
         padding: 0;
-        margin: 0;      
+        margin: 0;
+        position: absolute;
+        top:0      
     }
     .conteiner-rigth {
         display: block;
         width: 100%;
         height: auto;
+        position: absolute;
+        top: 50%;
     }
     img {
         position: static;
