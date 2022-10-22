@@ -1,4 +1,4 @@
-<h1>Meu Primeiro Projeto Responsivo</h1>
+<h1>Easy Shopping</h1>
 <br><br>
 <h2>Tecnologias Utilizadas</h2>
 <p>-HTML</p>
